@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Connect with me
+
+<p align="left">
+  <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
+  <a target="_blank" href = "https://t.me/genius_sunshine"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+  <a target="_blank" href = "https://join.skype.com/invite/eKp0b5gqrj8i"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" /></a>
+</p>
