@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Connect with me
 <p align="left">
-  <a href = "mailto:danieleverest0214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href = "mailto:serene.skyline0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 </p>
